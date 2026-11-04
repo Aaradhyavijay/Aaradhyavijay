@@ -10,9 +10,9 @@ I build practical, end-to-end projects — from console-based systems to AI-powe
 
 ### 🚀 Featured Projects
 
-**[PlaceMate](https://github.com/Aaradhyavijay/PlaceMate)** — Campus Placement Portal System
-A C++ console application with Student, Recruiter, and Admin modules built on OOP principles and file-based data persistence. Supports registration, job postings, and application tracking across 500+ simulated student records, with search/sort logic spanning 10+ core classes.
-`C++` `OOP` `DSA` `File Handling`
+**[PlaceMate](https://github.com/Aaradhyavijay/PlaceMate-Mern)** — Campus Placement Portal System
+ A full-stack Campus Placement Management Platform built using the MERN stack, featuring three role-based modules: Student, Recruiter, and Admin. Students can explore jobs, check eligibility, view skill-match percentages, and track applications. Recruiters can post jobs, manage applicants, and shortlist candidates, while Admins review and approve job postings. Includes JWT authentication, role-based access control, and MongoDB Atlas integration.
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `REST API`
 
 **[AI Mock Interview Platform](https://ai-mock-interview-dvz4.vercel.app)** — AI-Powered Interview Prep Tool
 An AI mock interview tool covering 100+ questions across 5+ domains (DSA, OOP, DBMS, HR, Aptitude), using Local LLMs, NLP, and prompt engineering for real-time question generation and answer evaluation. Java handles backend Q&A logic; Python drives AI/LLM integration.
